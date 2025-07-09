@@ -25,3 +25,7 @@ set expandtab
 
 " Set terminal window size
 set termwinsize=5x0
+
+set showmode
+set laststatus=2
+set guicursor=n-v-c:block,i-ci:ver25,r-cr:hor20
